@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Know your sake!
+## There are many types of sake with different characteristics. Some sake is polished, some unfiltered and others are diluted. There are many ways to create this drink which makes each and every one of them unique. This game is designed so the player can know the type of sake as well as some of its characteristics. This is game is for my milestone project and I was inspired to make this game to help my partner learn more about sake and its characteristics for her new job.
+### Match the sake and its definition before the time runs out! There are two types of the same cards, 8 different cards, 16 cards in total. Click on the cards to flip them, remember were they are and learn a little bit about sake!
 
-You can use the [editor on GitHub](https://github.com/trev98/mix-or-match/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Credits:
+- Trevor Goldman for creating the card front face images
+- Alex S. for providing the Sake definitions and characteristics
+- My friend Tella X for creating the background music
+- https://css-tricks.com/how-to-create-neon-text-with-css/ for the neon text effects
+- UNLV bootcamp for teaching me how to use HTML, CSS & JS
+- My friend Shandler for teaching me how to use the "this" function
+- https://unsplash.com/ for the images
+- Dorian & fisher for the card shuffle formula
+- https://mixkit.co/free-sound-effects/win/ for the sound effects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MIT License
 
-### Markdown
+Copyright (c) [2022] [TrevorGoldman]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-```markdown
-Syntax highlighted code block
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-# Header 1
-## Header 2
-### Header 3
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trev98/mix-or-match/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+REPO LINK: https://github.com/trev98/Complete-MTP.git
